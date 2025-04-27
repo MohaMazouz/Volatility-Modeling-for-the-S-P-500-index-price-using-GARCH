@@ -1,0 +1,1 @@
+# Volatility-Modeling-for-the-S-P-500-index-price-using-GARCH
